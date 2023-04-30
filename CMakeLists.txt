@@ -6,4 +6,6 @@ project(Calculator)
 
 add_executable(cal
     src/main.cpp
+    src/Calculator.hpp
+    src/String.hpp
 )
